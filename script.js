@@ -1,4 +1,4 @@
-const BACKEND = "<BACKEND_URL>"; // replace this when your backend is deployed
+const BACKEND = "https://guestbook-backend-1civ.onrender.com";
 const messagesEl = document.getElementById("messages");
 const input = document.getElementById("messageInput");
 const sendBtn = document.getElementById("sendBtn");
